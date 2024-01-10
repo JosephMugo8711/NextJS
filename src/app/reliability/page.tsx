@@ -1,3 +1,3 @@
 export default function Reliability() {
-    return <div>Scale!</div>
+    return  <div> Reliability!</div>
 }
